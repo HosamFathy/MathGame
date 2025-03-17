@@ -21,7 +21,7 @@ MathGame is a console-based application that allows users to play various math g
 ## How to Play
 
 1. Run the application.
-2. Enter your name and the current date.
+2. Enter your name.
 3. Select a game type from the menu.
 4. Choose a difficulty level.
 5. Answer the math questions presented.
